@@ -4,15 +4,15 @@
 
 <h1 align="center">Hi, I'm Martin 👋</h1>
 <p align="center">
-  <b>27 y/o French Software Engineer | Blockchain Enthusiast | Surfer</b><br>
-  <a href="https://x.com/MBarralWeb3">Twitter</a> • <a href="mailto:mbarraldevs@outlook.com">Email</a>
+  <b>27 y/o French Software Engineer | Blockchain Enthusiast | Smart Contract Developer</b><br>
+  <a href="https://x.com/MBarralWeb3">Twitter</a> • <a href="mailto:mbarraldevs@outlook.com">Email</a> • <a href="https://www.linkedin.com/in/martin-barral-5ab633182/">Linkedin</a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🇫🇷 Based in Lyon, France
+- 🇫🇷 Based in Lyon, France / Tenerife, Spain
 - 🎓 Master’s in Computer Science Engineering from <b>EPSI IT School</b>
 - 💼 3 years as a Java ERP Developer at <b>AKUITEO</b>
 - 🌱 Recently diving deep into **Blockchain Development** (Solidity, Hardhat, Foundry)
@@ -59,7 +59,7 @@
 I’m passionate about working with cutting-edge technologies, especially **blockchain** and **DeFi**. Investing my time in something that could reshape the world keeps me highly motivated and gives meaning to my work.
 
 My next goal?  
-🌍 **Find a remote smart contract/blockchain engineering role with flexible hours**—so I can keep growing as a developer and enjoy my other passion: surfing! 🏄‍♂️
+🌍 **Find a remote smart contract/blockchain engineering role with flexible hours**—I learned that flexibility is a key for my productivity and inner growth. Balancing work and hobbies are for me the best way to stay motivated and passionate about what I do.
 
 ---
 
@@ -75,6 +75,7 @@ My next goal?
 
 - Twitter: [@MBarralWeb3](https://x.com/MBarralWeb3)
 - Email: [mbarraldevs@outlook.com](mailto:mbarraldevs@outlook.com)
+- Linkedin: [MyLinkedin](https://www.linkedin.com/in/martin-barral-5ab633182/)
 
 ---
 
