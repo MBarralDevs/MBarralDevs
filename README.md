@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Martin 👋</h1>
 <p align="center">
-  <b>27 y/o French Software Engineer | Blockchain Enthusiast | Smart Contract Developer</b><br>
+  <b>27 Y/O French Software Engineer | Blockchain Enthusiast | Smart Contract Developer</b><br>
   <a href="https://x.com/MBarralWeb3">Twitter</a> • <a href="mailto:mbarraldevs@outlook.com">Email</a> • <a href="https://www.linkedin.com/in/martin-barral-5ab633182/">Linkedin</a>
 </p>
 
@@ -54,11 +54,11 @@
 
 ---
 
-### 🎯 Goals & Motivation
+### 🎯 What drives me ?
 
 I’m passionate about working with cutting-edge technologies, especially **blockchain** and **DeFi**. Investing my time in something that could reshape the world keeps me highly motivated and gives meaning to my work.
 
-My next goal?  
+### My next goal?  
 🌍 **Find a remote smart contract/blockchain engineering role with flexible hours**—I learned that flexibility is a key for my productivity and inner growth. Balancing work and hobbies are for me the best way to stay motivated and passionate about what I do.
 
 ---
@@ -66,7 +66,7 @@ My next goal?
 ### 🌊 Hobbies & Fun Facts
 
 - 🏄 Surfing addict
-- ⚽ Sports lover
+- ⚽ Bitcoin believer
 - 🤓 Lifelong learner
 
 ---
