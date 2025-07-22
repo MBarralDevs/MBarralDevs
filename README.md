@@ -36,6 +36,10 @@
   [Foundry_Decentralized_Stable_Coin](https://github.com/MBarralDevs/Foundry_Decentralized_Stable_Coin)  
   Algorithmic, decentralized stablecoin built in Solidity with Foundry.
 
+- 🪙 **Decentralized Stablecoin**  
+  [Foundry_Cross_Chain_Rebase_Token](https://github.com/MBarralDevs/Cross-Chain-Rebase-Token)  
+  Cross-Chain Rebase token, with overtime reward system. Built in solidity with foundry.
+
 - 🖼️ **NFT Collection**  
   [Foundry-NFT](https://github.com/MBarralDevs/Foundry-NFT)  
   My first NFT collection project, built using Solidity and Foundry.
