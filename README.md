@@ -36,6 +36,10 @@
   [Foundry_Decentralized_Stable_Coin](https://github.com/MBarralDevs/Foundry_Decentralized_Stable_Coin)  
   Algorithmic, decentralized stablecoin built in Solidity with Foundry.
 
+- 🪙 **Merkle Airdrop Signature**  
+  [Merkle_Airdrop_Signature](https://github.com/MBarralDevs/MerkleAirdropSignature)  
+  Merkle proofs and ECDSA Signatures for an Airdrop protocol.
+
 - 🪙 **Cross Chain Rebase Token**  
   [Foundry_Cross_Chain_Rebase_Token](https://github.com/MBarralDevs/Cross-Chain-Rebase-Token)  
   Cross-Chain Rebase token, with overtime reward system. Built in solidity with foundry.
