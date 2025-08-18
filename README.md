@@ -32,6 +32,7 @@
 
 ### 💡 Featured Projects
 
+
 - 🪙 **Decentralized Stablecoin**  
   [Foundry_Decentralized_Stable_Coin](https://github.com/MBarralDevs/Foundry_Decentralized_Stable_Coin)  
   Algorithmic, decentralized stablecoin built in Solidity with Foundry.
