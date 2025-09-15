@@ -12,9 +12,9 @@
 
 ### 👨‍💻 About Me
 
-- 🇫🇷 Based in Lyon, France / Tenerife, Spain
+-  🇫🇷 Based in Lyon, France / Tenerife, Spain
 - 🎓 Master’s in Computer Science Engineering from <b>EPSI IT School</b>
-- 💼 3 years as a Java ERP Developer at <b>AKUITEO</b>
+- 💼 4 years as a Java ERP Developer at <b>AKUITEO</b>
 - 🌱 Recently diving deep into **Blockchain Development** (Solidity, Hardhat, Foundry)
 - 🚀 Always learning and building in technologies I believe will change the world
 
@@ -88,7 +88,7 @@ I’m passionate about working with cutting-edge technologies, especially **bloc
 <summary>📝 <b>More about my journey</b></summary>
 
 - Graduated from EPSI IT School, passionate about software craftsmanship
-- 3 years building ERP solutions in Java at AKUITEO
+- 4 years building ERP solutions in Java at AKUITEO
 - Deep dived into blockchain via Cyfrin Updraft online Solidity courses
 - Always open to new challenges and collaborations—let’s build the future together!
 </details>
