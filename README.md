@@ -32,13 +32,14 @@
 
 ### 💡 Featured Projects
 
-- 🪙 **Account Abstraction**  
-  [Account_Abstraction](https://github.com/MBarralDevs/AccountAbstraction)
-  Minimal Account Abstraction smart contract on Ethereum and Zksync (Native AA).
 
 - 🪙 **Decentralized Stablecoin**  
   [Foundry_Decentralized_Stable_Coin](https://github.com/MBarralDevs/Foundry_Decentralized_Stable_Coin)  
   Algorithmic, decentralized stablecoin built in Solidity with Foundry.
+
+- 🪙 **Account Abstraction**  
+  [Account_Abstraction](https://github.com/MBarralDevs/AccountAbstraction)
+  Minimal Account Abstraction smart contract on Ethereum and Zksync (Native AA).
 
 - 🪙 **Merkle Airdrop Signature**  
   [Merkle_Airdrop_Signature](https://github.com/MBarralDevs/MerkleAirdropSignature)  
