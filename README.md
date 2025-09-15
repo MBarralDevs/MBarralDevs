@@ -38,7 +38,7 @@
   Algorithmic, decentralized stablecoin built in Solidity with Foundry.
 
 - 🪙 **Account Abstraction**  
-  [Account_Abstraction](https://github.com/MBarralDevs/AccountAbstraction)
+  [Account_Abstraction](https://github.com/MBarralDevs/AccountAbstraction)  
   Minimal Account Abstraction smart contract on Ethereum and Zksync (Native AA).
 
 - 🪙 **Merkle Airdrop Signature**  
